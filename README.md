@@ -4,8 +4,8 @@ I will be uploading all my data science and analytics projects here.
 
 # Exploratory Data Analyis Projects 
 
-- Bangalore House Price Prediction
-- COVID-19 Analysis
+- EDA on Bangalore House Prices and prediction
+- EDA on COVID-19 data
 - EDA on Cars
 - EDA on Google app ratings
 - EDA on Indian Census
